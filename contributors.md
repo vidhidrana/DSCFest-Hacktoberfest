@@ -1,5 +1,5 @@
-### Tsec Contribution 
-Akanksha Bhasin<br>
+<strong> Tsec Contribution </strong>
+<br>Akanksha Bhasin<br>
 Divyansh Chaurasia<br>
 Vanshika Gurbani<br/>
 Farhan Kapadia<br/>
